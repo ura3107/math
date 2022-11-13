@@ -30,5 +30,5 @@ func main() {
 
 	total := appleNum + orangeNum
 
-	fmt.Printf("りんごとみかんの合計:%d", total)
+	fmt.Printf("%d\n", total)
 }
