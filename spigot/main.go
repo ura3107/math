@@ -2,8 +2,6 @@ package main
 
 import "fmt"
 
-var base int = 10000 // 基底
-
 func main() {
 	var numerator [8400]int // 分子
 	base := 10000           // 基底
